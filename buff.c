@@ -3,7 +3,10 @@
 #include<stdlib.h>
 #include<string.h>
 
-
+/* 
+    1. added comment here above main to check git \\
+    2. adding this to check amend option to the earlier commit
+*/
 int main(int argc, char* argv[])
 {
 
