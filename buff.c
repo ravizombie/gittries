@@ -7,6 +7,7 @@
     1. added comment here above main to check git \\
     2. adding this to check amend option to the earlier commit
     3. added to check the diffs commands:
+    4. added to check staging
 */
 
 
